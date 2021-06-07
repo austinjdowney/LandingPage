@@ -1,0 +1,12 @@
+body{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.btn-primary {
+  background-color: #4c00c6;
+  border-color: #4200c6;
+}
+
+.bg-offwhite{
+  background-color: rgb(148, 140, 132);
+}
