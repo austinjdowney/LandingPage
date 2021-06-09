@@ -7,7 +7,7 @@ body{
 }
 .bg-carousel{
   max-width: 90%;
-  max-height: 90rem;
+  max-height: 80rem;
   background-color: darkgray;
   background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
 }
@@ -40,13 +40,16 @@ body{
   }
 }
 .profile-picture{
-  max-width: 33rem;
-  max-height: 35rem;
+  max-width: 25rem;
+  max-height: 25rem;
 }
 .project-images{
   max-height: 60rem;
 }
 .project2-images{
-  min-height: 40rem;
+  height: 40rem;
+}
+.project3-images{
+  height: 40rem;
 }
 
