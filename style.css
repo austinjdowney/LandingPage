@@ -2,8 +2,13 @@ body{
   font-family: 'Josefin Sans', sans-serif;
 }
 
+.app-images{
+  height: 25rem;
+}
 .bg-carousel{
-  background-color: darkslategray;
+  max-width: 90%;
+  max-height: 90rem;
+  background-color: darkgray;
   background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
 }
 
@@ -39,6 +44,9 @@ body{
   max-height: 35rem;
 }
 .project-images{
-  max-height: 45rem;
+  max-height: 60rem;
+}
+.project2-images{
+  min-height: 40rem;
 }
 
