@@ -9,8 +9,7 @@ html{
   height: 25rem;
 }
 .bg-carousel{
-  max-width: 95%;
-  max-height: 80rem;
+  max-width: 100%;
   background-color: darkgray;
   background-image: url("https://www.transparenttextures.com/patterns/black-felt.png");
 }
@@ -47,12 +46,15 @@ html{
   max-height: 25rem;
 }
 .project-images{
-  max-height: 60rem;
+  height: 50rem;
+  border-radius: 10%;
 }
 .project2-images{
   height: 40rem;
+  border-radius: 10%;
 }
 .project3-images{
   height: 40rem;
+  border-radius: 10%;
 }
 
