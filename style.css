@@ -24,8 +24,8 @@ html{
   border-color: #4200c6;
 }
 .carousel-caption{
-  color: antiquewhite;
-  text-shadow: 2px 2px 2px;
+  color: black;
+  text-shadow: 2px 2px 6px antiquewhite;
 }
 
 .icon-spinner{
